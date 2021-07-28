@@ -1,2 +1,1 @@
-# Karting-Game
-# GAME UNITY
+#NOTHING ON THIS PAGE
